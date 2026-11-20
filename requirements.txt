@@ -1,0 +1,11 @@
+pandas
+numpy
+pyarrow
+scikit-learn
+torch
+optuna
+tqdm
+pyyaml
+wrds
+sqlalchemy
+psycopg2-binary
